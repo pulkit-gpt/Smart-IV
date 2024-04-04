@@ -1,3 +1,12 @@
 [submodule "root"]
 	path = root
 	url = https://github.com/pulkit-gpt/miniproj1-backend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/pulkit-gpt/miniproj1-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/pulkit-gpt/miniproj1_frontend
+[submodule "esp32"]
+	path = esp32
+	url = https://github.com/pulkit-gpt/miniproj1_esp32
