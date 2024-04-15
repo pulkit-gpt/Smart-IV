@@ -10,3 +10,6 @@
 [submodule "esp32"]
 	path = esp32
 	url = https://github.com/pulkit-gpt/miniproj1_esp32
+[submodule "dashboard-frontend"]
+	path = dashboard-frontend
+	url = https://github.com/pulkit4603/iv-control-dashboard
